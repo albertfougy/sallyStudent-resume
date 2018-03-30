@@ -1,1 +1,2 @@
-# Sally Student's Resume - an HTML mockup for Engineering Prep
+# Sally Student's Resume 
+# HTML example for Thinkful Engineering Prep
